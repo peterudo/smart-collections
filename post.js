@@ -3,10 +3,11 @@
 const request = require('request-prom');
 const program = require('commander');
 const pack = require('./package.json');
+const fs = require('fs');
 
 program
   .version(pack.version)
-  .option('-w, --wait-time <n>', 'Seconds to wait between requests', 5)
+  .option('-w, --wait-time <n>', 'Miliseconds to wait between requests', 500)
   .option('-i, --index [index]', 'Index to start at', 0)
   .parse(process.argv);
 
@@ -14,13 +15,16 @@ const url = 'https://bookstore-41.myshopify.com/admin/smart_collections.json';
 
 let collections = require('./collections.json');
 const totalCollections = collections.length;
+let failedCollections = [];
 
 program.index = parseInt(program.index, 10);
+program.waitTime = parseInt(program.waitTime, 10);
+
 if (program.index > 0) {
     collections = collections.slice(program.index);
 }
 
-console.log(`${collections.length} to send. Sending 1 request per ${program.waitTime} seconds`);
+console.log(`${collections.length} to send.`);
 
 let currentIndex = program.index;
 function post() {
@@ -37,6 +41,8 @@ function post() {
         }
     };
 
+    console.log('Posting...');
+
     return request(opts);
 }
 
@@ -45,7 +51,15 @@ function doPost() {
         .then(() => {
             console.log(`${currentIndex}/${totalCollections}`);
             currentIndex += 1;
-            setTimeout(doPost, program.waitTime * 1000);
+
+            if (currentIndex === totalCollections) {
+                console.log('Complete!');
+                return done();
+            }
+
+            console.log('Done, waiting for next...');
+
+            setTimeout(doPost, program.waitTime);
         })
         .catch((error) => {
             console.log(`Request failed at ${currentIndex}`);
@@ -53,7 +67,23 @@ function doPost() {
             console.log('');
             console.log('Collection:')
             console.log(collections[currentIndex]);
+
+            failedCollections.push(collections[currentIndex]);
+
+            currentIndex += 1;
+            doPost();
         });
 }
+
+function done() {
+    if (failedCollections.length) {
+        fs.writeFileSync('failed-collections.json', JSON.stringify(failedCollections, null, 4));
+    }
+}
+
+process.on('SIGINT', function () {
+    done();
+    process.exit(1);
+});
 
 doPost();
