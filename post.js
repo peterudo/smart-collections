@@ -50,6 +50,9 @@ function doPost() {
         .catch((error) => {
             console.log(`Request failed at ${currentIndex}`);
             console.log(`Run node post.js -i ${currentIndex} to continue/try again`);
+            console.log('');
+            console.log('Collection:')
+            console.log(collections[currentIndex]);
         });
 }
 
