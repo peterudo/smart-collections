@@ -3,8 +3,6 @@
 		
 		"smart_collection": {
 		            "title": "Brit Bildøen",
-		            "image": {
-		      "src": " ",
 		            "body_html": "(f. 1962) er forfattar og forlagskonsulent. Ho debuterte i 1991 med diktsamlinga Bilde av menn, og har sidan gitt ut barnebøker, gjendiktingar, romanar og essay. I romandebuten, Eit anna eple (1992), skildrar Bildøen små, fantastiske ting i dagleglivet gjennom ei samling eventyrlege korttekstar. I Tvillingfeber (1998) møter vi Ida, som leitar etter sin tapte tvilling – i seg sjølv, i eit gammalt fotografi, i menn og onklar og venninner. For denne boka blei Bildøen tildelt både Osloprisen og Nynorsk litteraturpris i 1998. Tvillingfeber blei dessutan nominert til Brageprisen. I 2001 kom romanen Landfastlykke – ei bok Bildøen fekk både Melsomprisen og Sigmund Skard-stipendet for. Boka viser korleis bruer kan binde saman og endre både landskap, samfunn og menneske. Romanane Alt som er (2004) og Mitt milde vesen (2006) fekk begge strålande meldingar, og fleire plasserer no Bildøen blant våre fremste samtidsforfattarar. Bildøen har skrive fleire barnebøker og omsett bøker både for barn og vaksne. I 2009 gav ho ut essaysamlinga Litterær salong på sjølvaste kvinnedagen. Boka inneheld lesingar av m.a. Gertrude Stein, Halldis Moren Vesaas, Amalie Skram, Doris Lessing og Elfriede Jelinek og tek sikte på å oppmuntre kvinnelege skribentar og inspirere boklesarar av begge kjønn. Bildøen var festspeldiktar ved Dei nynorske festspela i 2000. Ho er utdanna bibliotekar, og har i tillegg studert sosiologi og gått på Skrivekunstakademiet i Hordaland. Brit Bildøen er fødd i Ålesund og oppvaksen i Aukra i Møre og Romsdal. Ho bur no i Oslo.",
 		              "rules": [
 		                {
@@ -17,8 +15,6 @@
 		    },
 		"smart_collection": {
 		            "title": "Anna R. Folkestad",
-		            "image": {
-		      "src": " ",
 		            "body_html": "(f. 1983) er frå Stord. Ho debuterte i 2011 med biletboka Henrik And, som kom på russisk i 2012. Ho fekk tildelt Nynorsk Barnelitteraturpris for 2012 for boka Unni og Gunni reiser.",
 		              "rules": [
 		                {
@@ -31,8 +27,6 @@
 		    },
 		"smart_collection": {
 		            "title": "Odd Eirik Færevåg",
-		            "image": {
-		      "src": " ",
 		            "body_html": "(f. 1976) kjem frå Røvær. Han bur i Haugesund og arbeider som lærar.",
 		              "rules": [
 		                {
@@ -45,8 +39,6 @@
 		    },
 		"smart_collection": {
 		            "title": "Martine Grande",
-		            "image": {
-		      "src": " ",
 		            "body_html": "(f. 1985) voks opp i Lierne i Nord-Trøndelag og bur no i Volda. Ho er utdanna animatør og jobbar til dagleg i sitt eige animasjonsselskap, Grande Produksjon. I 2013 debuterte ho som forfattar med biletboka Kakerlakken med den stygge frakken ... og hovudet fullt av triste tankar, som også ligg føre som animasjonsfilm, biletbokapp og teater.",
 		              "rules": [
 		                {
@@ -59,8 +51,6 @@
 		    },
 		"smart_collection": {
 		            "title": "Elin Grimstad",
-		            "image": {
-		      "src": " ",
 		            "body_html": "(f 1976) er frå Giske i Møre og Romsdal, bur i Oslo. Utdanning i animasjonsfilm og skriving for barn ifrå Bath Spa University (BA) og frå Norsk barnebokinstitutt. Ho har til no jobba mest med animasjon og illustrasjon i møte med figurteater. Månen som ville lyse som ei sol er den fyrste boka hennar.",
 		              "rules": [
 		                {
@@ -73,8 +63,6 @@
 		    },
 		"smart_collection": {
 		            "title": "Thore Eithun Helland",
-		            "image": {
-		      "src": " ",
 		            "body_html": "(f. 1965) er oppvaksen i Hardanger.Han jobbar i dag som advokat i Oslo. Farleg kreditt er den tredje romanen hans. I 2003 debuterte han med Bitterhonning Blues, og i 2008 kom Natta blir til regn.",
 		              "rules": [
 		                {
@@ -87,12 +75,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Terje Hellesen",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/T-Hellesen.ashx",
-		            "body_html": "(f. 1973) debuterte med den kritikarroste diktsamlinga Noko av deg lever andre stader i 2005, og har sidan skrive bøker både for vaksne og barn.
-		I romanen Akselerare frå 2006 blir vi tekne med til eit mørkt og gåtefullt univers, der ein jazzspelande naturfaglærar frå Sverige opplever ei krise. Romanen Soma kom i 2008, og handlar om pressefotografen M, som arbeider med eit materiale for å sleppe unna fotografiets overflate og fasthalding av tilværet. I eit sterkt og ekspressivt språk viser Hellesen i begge desse bøkene sitt store talent til fulle.
-		Hellesen debuterte som barnebokforfattar i 2008 med Kvalen Blå dansar salsa. Dette er ei vill og morosam bok som tematiserer lengt og det å dele livet med nokon på godt og vondt.
-		Hellesen er busett i Bergen.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/T-Hellesen.ashx",
+		            "body_html": "(f. 1973) debuterte med den kritikarroste diktsamlinga Noko av deg lever andre stader i 2005, og har sidan skrive bøker både for vaksne og barn. I romanen Akselerare frå 2006 blir vi tekne med til eit mørkt og gåtefullt univers, der ein jazzspelande naturfaglærar frå Sverige opplever ei krise. Romanen Soma kom i 2008, og handlar om pressefotografen M, som arbeider med eit materiale for å sleppe unna fotografiets overflate og fasthalding av tilværet. I eit sterkt og ekspressivt språk viser Hellesen i begge desse bøkene sitt store talent til fulle. Hellesen debuterte som barnebokforfattar i 2008 med Kvalen Blå dansar salsa. Dette er ei vill og morosam bok som tematiserer lengt og det å dele livet med nokon på godt og vondt. Hellesen er busett i Bergen.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -104,11 +89,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Jon Hjørnevik",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/Jon-HjOErnevik.ashx",
-		            "body_html": "(f. 1970) er forfattar og komikar frå Voss. Han debuterte med den humoristiske diktsamlinga I ein sofa frå Korea i 2001 og har sidan halde fram med å skrive dikt om usikkerheit, tabbar og triste opplevingar, men også om kjærleik, draumar og glede. 
-		Hjørnevik er utdanna statsvitar og bur i Bergen der han arbeider som tekstforfattar i MK Bergen Reklamebyrå. Han blir iblant omtalt som «den slemme fetteren til Arne Hjeltnes».
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/Jon-HjOErnevik.ashx",
+		            "body_html": "(f. 1970) er forfattar og komikar frå Voss. Han debuterte med den humoristiske diktsamlinga I ein sofa frå Korea i 2001 og har sidan halde fram med å skrive dikt om usikkerheit, tabbar og triste opplevingar, men også om kjærleik, draumar og glede.  Hjørnevik er utdanna statsvitar og bur i Bergen der han arbeider som tekstforfattar i MK Bergen Reklamebyrå. Han blir iblant omtalt som «den slemme fetteren til Arne Hjeltnes». ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -120,8 +103,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Ingvild Holvik",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/Holvik-Ingvild.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/Holvik-Ingvild.ashx",
 		            "body_html": "(f. 1976) er frå Bergen og bur i Tromsø. Lykkefeltet er den første boka hennar.Holvik er konsulent i Forfattersentrum Nord-Norge, og arbeider som omsetjar. Ho blei i 2009 nominert til Brageprisen for omsetjinga av Attila Bartis' Stillheten.",
 		              "rules": [
 		                {
@@ -134,8 +117,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Kristina Leganger Iversen",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/i/~/media/Samlaget/Litteratur/Forfattarar/I/Kristina-Leganger-Iversen.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/i/~/media/Samlaget/Litteratur/Forfattarar/I/Kristina-Leganger-Iversen.ashx",
 		            "body_html": "(f. 1989) er frå Åsane, men bur no i Oslo. Ho debuterte med diktsamlinga Hjartemekanikk i 2011. Iversen har gått på Litterär Gestaltning.",
 		              "rules": [
 		                {
@@ -148,8 +131,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Siw Anita Kirketeig",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Siw-Anita-Kirketeig.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Siw-Anita-Kirketeig.ashx",
 		            "body_html": "(f. 1988) er frå Dale i Sunnfjord, men bur i Bergen. Ho har tidlegare gått på Skrivekunstakademiet i Hordaland, og er for tida student ved Kunsthøgskulen i Bergen. Alt kjød er grønt gras er debutboka hennar.",
 		              "rules": [
 		                {
@@ -162,8 +145,6 @@
 		    },
 		"smart_collection": {
 		            "title": "Bjarte Klakegg",
-		            "image": {
-		      "src": " ",
 		            "body_html": "(f. 1969) debuterte i 2009 med prosasamlinga Heliumhjarte",
 		              "rules": [
 		                {
@@ -176,11 +157,7 @@
 		    },
 		"smart_collection": {
 		            "title": "Odveig Klyve",
-		            "image": {
-		      "src": " ",
-		            "body_html": "(f. 1954) debuterte i 1993 med diktsamlinga Rift. Ho har sidan skrive ei rekkje diktsamlingar, barnebøker og kortfilmmanus.
-		Klyve fekk stor merksemd for diktsamlinga Det andre blikket (2006), der ho tek opp alderdom og demens, og skildrar forholdet mellom ei dotter og ei mor på sjukeheim. Mellom 1993 og 2007 gav ho ut sju diktsamlingar og åtte barnebøker. Ho har dessutan gjendikta den iranske poeten Forugh Faarokhzad (Ein annan fødsel, 2002) og den palestinske poeten Fadwa Tuqan (Aleine med dagane, 2005).
-		Klyve har studert film og sosialarbeid ved Høgskolen i Stavanger og gått på Skrivekunstakademiet i Hordaland. Ho er fødd i Hardanger og bur no i Stavanger.",
+		            "body_html": "(f. 1954) debuterte i 1993 med diktsamlinga Rift. Ho har sidan skrive ei rekkje diktsamlingar, barnebøker og kortfilmmanus. Klyve fekk stor merksemd for diktsamlinga Det andre blikket (2006), der ho tek opp alderdom og demens, og skildrar forholdet mellom ei dotter og ei mor på sjukeheim. Mellom 1993 og 2007 gav ho ut sju diktsamlingar og åtte barnebøker. Ho har dessutan gjendikta den iranske poeten Forugh Faarokhzad (Ein annan fødsel, 2002) og den palestinske poeten Fadwa Tuqan (Aleine med dagane, 2005). Klyve har studert film og sosialarbeid ved Høgskolen i Stavanger og gått på Skrivekunstakademiet i Hordaland. Ho er fødd i Hardanger og bur no i Stavanger.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -192,10 +169,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Ragnhild Kolden",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Kolden%20Ragnhild%202010%20c%20Tove%20K%20Breistein%20svart%20kvitt.ashx",
-		            "body_html": "(f. 1956) er frå Bøverdalen i Lom og bur i Oslo. Ho debuterte i 2010 med romanen I krig og kjærleik, ei klok og medrivande framstilling av dobbeltagentverksemd under den andre verdskrigen. Ho følgde opp med Krigens skugge i 2012, og med Fredens frosne hjarte avsluttar Kolden krigstrilogien om søstrene Vik. Kolden har også skrive kriminalromanar saman med Vigdis Kroken.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Kolden%20Ragnhild%202010%20c%20Tove%20K%20Breistein%20svart%20kvitt.ashx",
+		            "body_html": "(f. 1956) er frå Bøverdalen i Lom og bur i Oslo. Ho debuterte i 2010 med romanen I krig og kjærleik, ei klok og medrivande framstilling av dobbeltagentverksemd under den andre verdskrigen. Ho følgde opp med Krigens skugge i 2012, og med Fredens frosne hjarte avsluttar Kolden krigstrilogien om søstrene Vik. Kolden har også skrive kriminalromanar saman med Vigdis Kroken. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -207,11 +183,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Arnfinn Kolerud",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Arnfinn-Kolerud-2012.ashx",
-		            "body_html": "(f. 1968) kjem frå Isfjorden i Romsdal og er barne- og ungdomsbokforfattar.
-		Han debuterte med Berre ikkje brøyteplogen kjem i 1996, og han fekk Kulturdepartementet sin debutantpris for barne- og ungdomslitteratur for denne boka. Den som ikkje har gøymt seg no (2004) har blitt samanlikna med oppvekstskildringane til Tarjei Vesaas. For Den som ikkje har gøymt seg no (2004) vart Kolerud nominert til Brageprisen, fekk Kritikarprisen, Nynorsk barnelitteraturpris og Guro Sandsdalens litteraturpris.
-		Kolerud er for tida busett i Måløy i Sogn og Fjordane.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Arnfinn-Kolerud-2012.ashx",
+		            "body_html": "(f. 1968) kjem frå Isfjorden i Romsdal og er barne- og ungdomsbokforfattar. Han debuterte med Berre ikkje brøyteplogen kjem i 1996, og han fekk Kulturdepartementet sin debutantpris for barne- og ungdomslitteratur for denne boka. Den som ikkje har gøymt seg no (2004) har blitt samanlikna med oppvekstskildringane til Tarjei Vesaas. For Den som ikkje har gøymt seg no (2004) vart Kolerud nominert til Brageprisen, fekk Kritikarprisen, Nynorsk barnelitteraturpris og Guro Sandsdalens litteraturpris. Kolerud er for tida busett i Måløy i Sogn og Fjordane.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -223,10 +197,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Tore Kvæven",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Tore-KvAEven.ashx",
-		            "body_html": "(f. 1969) bur i Sirdal i Vest-Agder. Han debuterte i 2011 med Hard er mitt lands lov. Kameljegeren (2013) er den første barneboka hans. Hard er mitt lands lov er omsett til dansk og tysk.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Tore-KvAEven.ashx",
+		            "body_html": "(f. 1969) bur i Sirdal i Vest-Agder. Han debuterte i 2011 med Hard er mitt lands lov. Kameljegeren (2013) er den første barneboka hans. Hard er mitt lands lov er omsett til dansk og tysk. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -238,8 +211,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Markus Lantto",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Markus-Lantto.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Markus-Lantto.ashx",
 		            "body_html": "(f. 1973) kjem frå Masugnsbyn i Sverige. Han arbeider i Trondheim som kunstnar og instrumentbyggar. Bruken av gjedde er hans første bok.",
 		              "rules": [
 		                {
@@ -252,8 +225,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Marit Lajord",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Lajord%20Marit.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Lajord%20Marit.ashx",
 		            "body_html": "(f. 1990) er debutant. Ho har gått på forfattarutdanninga i Bø, studerer jus og skriv for ungdom på nettstaden Framtida.no",
 		              "rules": [
 		                {
@@ -266,10 +239,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Liv Larsen",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Larsen%20Liv.ashx",
-		            "body_html": "(f. 1969) bur i Bergen der ho arbeider som bibliotekar ved Bergen Offentlige Bibliotek. Ho debuterte som forfattar i 2009 med barneboka "Verdas finaste lappar". Hausten 2010 kom oppfølgjaren "Hjartekrigen".
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Larsen%20Liv.ashx",
+		            "body_html": "(f. 1969) bur i Bergen der ho arbeider som bibliotekar ved Bergen Offentlige Bibliotek. Ho debuterte som forfattar i 2009 med barneboka "Verdas finaste lappar". Hausten 2010 kom oppfølgjaren "Hjartekrigen". ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -281,10 +253,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Marita Liabø",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Marita-LiabOE.ashx",
-		            "body_html": "(f. 1971) debuterte med romanen Tempus fugit (Eide) i 1999, og har skrive ei rekkje bøker og antologibidrag for vaksne og barn. Ho arbeider som fjernsynstekstar for NRK, og var tidlegare spaltist i Dagbladet og Dag og Tid. 
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Marita-LiabOE.ashx",
+		            "body_html": "(f. 1971) debuterte med romanen Tempus fugit (Eide) i 1999, og har skrive ei rekkje bøker og antologibidrag for vaksne og barn. Ho arbeider som fjernsynstekstar for NRK, og var tidlegare spaltist i Dagbladet og Dag og Tid.  ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -296,8 +267,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Synnøve Macody Lund",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/SynnOEve-Macody-Lund.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/SynnOEve-Macody-Lund.ashx",
 		            "body_html": "(f. 1976) er fødd og oppvaksen på Stord. Ho er utdanna innan litteratur, filosofi, film og fjernsynsregi. Ho arbeider som skodespelar, filmkritikar og dokumentar-regissør.",
 		              "rules": [
 		                {
@@ -310,12 +281,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Erica Löfström",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Erica-LOEfstrOEm.ashx",
-		            "body_html": "(f. 1978) debuterer med romanen Sex, musikk og vold. Ho er frå Sverige, men bur og arbeider i Trondheim.
- 
-		Besøk heimesida til Erica Löfström her.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/l/~/media/Samlaget/Litteratur/Forfattarar/L/Erica-LOEfstrOEm.ashx",
+		            "body_html": "(f. 1978) debuterer med romanen Sex, musikk og vold. Ho er frå Sverige, men bur og arbeider i Trondheim.   Besøk heimesida til Erica Löfström her. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -327,10 +295,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Vegard Markhus",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Vegard-Markhus.ashx",
-		            "body_html": "(f. 1983) er forfattar, illustratør og lærar. Han er oppvaksen i Norheimsund, men bur og arbeider i Bergen. Han har gitt ut fleire bildebøker, og i 2010 fekk han Nynorsk barnelitteraturpris.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Vegard-Markhus.ashx",
+		            "body_html": "(f. 1983) er forfattar, illustratør og lærar. Han er oppvaksen i Norheimsund, men bur og arbeider i Bergen. Han har gitt ut fleire bildebøker, og i 2010 fekk han Nynorsk barnelitteraturpris. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -342,10 +309,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Enel Melberg",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Melberg%20Enel%202010%20c%20Tove%20K%20Breistein.ashx",
-		            "body_html": "(f. 1943) bur i Oslo og Värmland. Ho har skrive ei rekkje romanar, og dei tre seinaste har komme ut på norsk.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Melberg%20Enel%202010%20c%20Tove%20K%20Breistein.ashx",
+		            "body_html": "(f. 1943) bur i Oslo og Värmland. Ho har skrive ei rekkje romanar, og dei tre seinaste har komme ut på norsk. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -357,10 +323,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Sigri Sandberg Meløy",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Sigri%20Sandberg%20MelOEy.ashx",
-		            "body_html": "(f. 1975) er forfattar og journalist.
-		I 2006 ga ho ut intervjuboka Kjærleikar. I 2009 kom barnebiletboka Ballongmamma. I lag med polfarar Cecilie Skog har ho skrive fleire bøker. Ho har jobba for mellom andre Dagens Næringsliv, Svalbardposten og Ny tid. Meløy bur i Longyearbyen på Svalbard.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Sigri%20Sandberg%20MelOEy.ashx",
+		            "body_html": "(f. 1975) er forfattar og journalist. I 2006 ga ho ut intervjuboka Kjærleikar. I 2009 kom barnebiletboka Ballongmamma. I lag med polfarar Cecilie Skog har ho skrive fleire bøker. Ho har jobba for mellom andre Dagens Næringsliv, Svalbardposten og Ny tid. Meløy bur i Longyearbyen på Svalbard.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -372,13 +337,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Hilde Myklebust",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Hilde-Myklebust.ashx",
-		            "body_html": "(f. 1979) er frå Syltedalen på Sunnmøre. Ho debuterte med diktsamlinga Berre dagar seinare i 2005 og etablerte seg for alvor blant dei fremste unge lyrikarane i Noreg med Søkk i 2008.
-		Felles for dikta til Myklebust er at naturen, og alt det som lever der, alltid er nærverande. I Søkk (2008) skapar forteljingar frå barndommen, brå minne, segner, overtru og folkeprat ein underliggjande straum av uro mot noko som blir til ei kald røynd. Ramma rundt dikta er forteljinga om ei ung kvinne som mister barnet sitt.
-		I 2009 gav Myklebust ut biletboka Jon og den lange julenatta – ei varm, vakker og jordnær forteljing for barn, der vi møter Jon og hesten hans som skal få føl på sjølvaste julenatta.
-		Myklebust har bakgrunn frå Skrivekunstakademiet i Hordaland og har studert litteratur- og teatervitskap ved Universitetet i Bergen.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Hilde-Myklebust.ashx",
+		            "body_html": "(f. 1979) er frå Syltedalen på Sunnmøre. Ho debuterte med diktsamlinga Berre dagar seinare i 2005 og etablerte seg for alvor blant dei fremste unge lyrikarane i Noreg med Søkk i 2008. Felles for dikta til Myklebust er at naturen, og alt det som lever der, alltid er nærverande. I Søkk (2008) skapar forteljingar frå barndommen, brå minne, segner, overtru og folkeprat ein underliggjande straum av uro mot noko som blir til ei kald røynd. Ramma rundt dikta er forteljinga om ei ung kvinne som mister barnet sitt. I 2009 gav Myklebust ut biletboka Jon og den lange julenatta – ei varm, vakker og jordnær forteljing for barn, der vi møter Jon og hesten hans som skal få føl på sjølvaste julenatta. Myklebust har bakgrunn frå Skrivekunstakademiet i Hordaland og har studert litteratur- og teatervitskap ved Universitetet i Bergen. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -390,16 +351,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Lars Mæhle",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Mhle%20Lars%202010Tove%20Breistein.ashx",
-		            "body_html": "(f. 1971) kjem frå Sunndalsøra på Nordmøre. Han har skrive fleire bøker for barn og unge, og fekk sitt store gjennombrot med fantasyromanen Landet under isen i 2009.
- 
-		Mæhle debuterte med ungdomsromanen Keeperen til Tunisia i 2002. Den prislønte filmen Keeper’n til Liverpool (2010), er basert på denne boka. Narnia-draumar (2005) er ein frittståande oppfølgjar til denne romanen.
-		Fantasyromanen Landet under isen (2009) markerte eit gjennombrot for Lars Mæhle. Her tek forfattaren i bruk element frå kriminalforteljinga, samtidig som innsikter i dei tre store verdsreligionane – jødedom, kristendom, islam – er sentrale. Romanen blei tildelt Kulturdepartementet sin litteraturpris for beste barne- og ungdomsbok 2009 og vann UPrisen i 2010. Boka blei dessutan nominert til Brageprisen og Ungdommens Kritikerpris.
- 
-		Med krimserien om psykolog og kickboksar Ina Grieg har Lars Mæhle etablert seg som ei ny, sterk stemme blant nordiske krimforfattarar.
- 
-		Les meir på forfattarens eiga heimeside!",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Mhle%20Lars%202010Tove%20Breistein.ashx",
+		            "body_html": "(f. 1971) kjem frå Sunndalsøra på Nordmøre. Han har skrive fleire bøker for barn og unge, og fekk sitt store gjennombrot med fantasyromanen Landet under isen i 2009.   Mæhle debuterte med ungdomsromanen Keeperen til Tunisia i 2002. Den prislønte filmen Keeper’n til Liverpool (2010), er basert på denne boka. Narnia-draumar (2005) er ein frittståande oppfølgjar til denne romanen. Fantasyromanen Landet under isen (2009) markerte eit gjennombrot for Lars Mæhle. Her tek forfattaren i bruk element frå kriminalforteljinga, samtidig som innsikter i dei tre store verdsreligionane – jødedom, kristendom, islam – er sentrale. Romanen blei tildelt Kulturdepartementet sin litteraturpris for beste barne- og ungdomsbok 2009 og vann UPrisen i 2010. Boka blei dessutan nominert til Brageprisen og Ungdommens Kritikerpris.   Med krimserien om psykolog og kickboksar Ina Grieg har Lars Mæhle etablert seg som ei ny, sterk stemme blant nordiske krimforfattarar.   Les meir på forfattarens eiga heimeside!",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -411,8 +365,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Olaug Nilssen",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Olaug-Nilssen-.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Olaug-Nilssen-.ashx",
 		            "body_html": "(f. 1977) er trebarnsmor. Ho debuterte med romanen Innestengt i udyr i 1998. Sidan den gong har ho skrive bøker i ulike sjangrar og markert seg som ei uvanleg og viktig stemme i norsk litteratur. Særleg kjend er Nilssen for romanen Få meg på, for faen som òg er filmatisert. Nilssen har blant anna vore leiar på Skrivekunstakademiet i Bergen. Ho kjem frå Solheimsdalen i Førde, men bur no i Bergen.",
 		              "rules": [
 		                {
@@ -425,11 +379,7 @@
 		    },
 		"smart_collection": {
 		            "title": "Ingvar Nistad",
-		            "image": {
-		      "src": " ",
-		            "body_html": "Ingvar Nistad (f. 1954) er frå Fjaler. Han debuterte med diktsamlinga Eg les denne steinen i 2000.
-		I 2008 ga Nistad ut si andre bok, Dagane i Cholpon-Ata. Her presenterer han eit heilt særeige univers der forteljaren vandrar ved innsjøen, i gatene og sit i hagen under frukttrea mens ein hest går forbi på gata. Slik er dagane i Cholpon-Ata, og slik flettar forteljingane seg saman til ei diktbok heilt utanom det vanlege.
-		Nistad er keramikar og arbeider som lærar i vidaregåande skole. Han bur i Strandvik.",
+		            "body_html": "Ingvar Nistad (f. 1954) er frå Fjaler. Han debuterte med diktsamlinga Eg les denne steinen i 2000. I 2008 ga Nistad ut si andre bok, Dagane i Cholpon-Ata. Her presenterer han eit heilt særeige univers der forteljaren vandrar ved innsjøen, i gatene og sit i hagen under frukttrea mens ein hest går forbi på gata. Slik er dagane i Cholpon-Ata, og slik flettar forteljingane seg saman til ei diktbok heilt utanom det vanlege. Nistad er keramikar og arbeider som lærar i vidaregåande skole. Han bur i Strandvik.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -441,11 +391,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Jørgen Norheim",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Joergen-Norheim.ashx",
-		            "body_html": "(f. 1952) har sidan debuten i 1994 gitt ut fleire kritikarroste romanar. Adjutanten (2008) blei nominert til Brageprisen og Ingen er så trygg i fare (2002) blei nominert til Nordisk Råds litteraturpris.
-
-		Norheim er fødd i Sollia i Østerdalen og voks opp i Vestre Slidre. Han er utdanna cand. philol. med hovudfag i historie. I åra 1987–1996 var han redaksjonssekretær i Syn og Segn.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Joergen-Norheim.ashx",
+		            "body_html": "(f. 1952) har sidan debuten i 1994 gitt ut fleire kritikarroste romanar. Adjutanten (2008) blei nominert til Brageprisen og Ingen er så trygg i fare (2002) blei nominert til Nordisk Råds litteraturpris.  Norheim er fødd i Sollia i Østerdalen og voks opp i Vestre Slidre. Han er utdanna cand. philol. med hovudfag i historie. I åra 1987–1996 var han redaksjonssekretær i Syn og Segn.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -457,8 +405,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Tone Nørvåg",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Nrvg%20Tone.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Nrvg%20Tone.ashx",
 		            "body_html": "har vore politi på Sunnmøre i mange år og kjenner stoffet sitt godt. Ho skildrar både politiarbeidet og livet med hund med innsikt og humor, og det er tydeleg at ho elskar begge delar.",
 		              "rules": [
 		                {
@@ -471,14 +419,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Øystein Orten",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/o/~/media/Samlaget/Litteratur/Forfattarar/O/Orten%20ystein%2020066Odd%20Goksyr.ashx",
-		            "body_html": "(f. 1962) er lektor og forfattar frå Hareid på Sunnmøre. Han debuterte med Havflammen i 1995, og har seinare skrive både lyrikk, romanar og dokumentar.
-		Orten har skrive fleire diktsamlingar. For kjensla av at det ikkje regnar andre stader enn her (2004) blei han bl.a. kalla ein «ordkunstnar av klasse». Dei tre romanane Livingstones retrett (2003), Vegen til Neverland (2005) og Rabarbrakrigen (2007) utgjer ein slags trilogi om kjærleik, svik og skuld, men også om identitet, håp og gleda ved å høyre til.
-		I 2009 ga Orten ut dokumentarboka Himmelen over Shetland – ei spennande bok med historier om motstand og eksil i Noreg under den andre verdskrigen.
-		I 2011 kom novellesamlinga Sjabervik.
-		Orten er utdanna lektor og har hovudfag i historie. Når han ikkje skriv bøker, underviser han i norsk, historie og religion på Ulstein vidaregåande skule.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/o/~/media/Samlaget/Litteratur/Forfattarar/O/Orten%20ystein%2020066Odd%20Goksyr.ashx",
+		            "body_html": "(f. 1962) er lektor og forfattar frå Hareid på Sunnmøre. Han debuterte med Havflammen i 1995, og har seinare skrive både lyrikk, romanar og dokumentar. Orten har skrive fleire diktsamlingar. For kjensla av at det ikkje regnar andre stader enn her (2004) blei han bl.a. kalla ein «ordkunstnar av klasse». Dei tre romanane Livingstones retrett (2003), Vegen til Neverland (2005) og Rabarbrakrigen (2007) utgjer ein slags trilogi om kjærleik, svik og skuld, men også om identitet, håp og gleda ved å høyre til. I 2009 ga Orten ut dokumentarboka Himmelen over Shetland – ei spennande bok med historier om motstand og eksil i Noreg under den andre verdskrigen. I 2011 kom novellesamlinga Sjabervik. Orten er utdanna lektor og har hovudfag i historie. Når han ikkje skriv bøker, underviser han i norsk, historie og religion på Ulstein vidaregåande skule. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -490,8 +433,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Siv Østrem Peersen",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/p/~/media/Samlaget/Litteratur/Forfattarar/P/Siv-OEstrem-Peersen.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/p/~/media/Samlaget/Litteratur/Forfattarar/P/Siv-OEstrem-Peersen.ashx",
 		            "body_html": "(f. 1964), opprinneleg frå Førde i Sunnfjord, busett på Askøy. Østrem Peersen er utdanna adjunkt og har m.a. jobba som lærar i den vidaregåande skulen. Ho studerer no litteraturvitskap i Bergen. Ulvetone er den første boka hennar.",
 		              "rules": [
 		                {
@@ -504,11 +447,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Berit Rødstøl",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/r/~/media/Samlaget/Litteratur/Forfattarar/R/R%C3%B8dst%C3%B8l%20Berit%20Foto%20Tove%20K%20Breistein.ashx",
-		            "body_html": "(f. 1979) er forfattar, journalist og dokumentarfilmskapar. I 2010 debuterte ho med romanen Himmelreisande, som handlar om hunden Laika som vart sendt ut i verdsrommet i 1957.
-		print
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/r/~/media/Samlaget/Litteratur/Forfattarar/R/R%C3%B8dst%C3%B8l%20Berit%20Foto%20Tove%20K%20Breistein.ashx",
+		            "body_html": "(f. 1979) er forfattar, journalist og dokumentarfilmskapar. I 2010 debuterte ho med romanen Himmelreisande, som handlar om hunden Laika som vart sendt ut i verdsrommet i 1957. print ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -520,17 +461,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Ingelin Røssland",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/r/~/media/Samlaget/Litteratur/Forfattarar/R/Rssland%20Ingelin%202012%20c%20Lars%20Myhren%20Holandhgde.ashx",
-		            "body_html": "(f. 1976) debuterte med ungdomsromanen Viss du vil i 1998.  For si fjerde bok, Handgranateple (2006), blei Røssland tildelt både Sunnmørsprisen og UPrisen, og boka kom i 2008 på IBBY Honour List. I 2007 mottok Røssland Sigmund Skard-stipendet og Guro Sandsdalens litteraturpris, og i 2011 blei ho tildelt Falturiltuprisen.
-
-		Dei tre bøkene Englefjes (2008), Englejakt (2009) og Engleslakt (2010) utgjer til saman den populære trilogien om Engel Winge. Den rå journalistspira og bråkmakeren, som også er kjend som queen of fucking everything, har eiga nettside: http://www.engelwinge.no.
-
-		Kirsebærsnø (2012) er Røsslands første roman for vaksne.
-
-		Ingelin Røssland er utdanna journalist og har jobba i fleire aviser og i NRK for Newton. Ingelin Røssland har fått ei rekkje prisar for sine ungdomsbøker og blitt omsett til fleire språk.
-
-		Røssland bur i Stockholm.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/r/~/media/Samlaget/Litteratur/Forfattarar/R/Rssland%20Ingelin%202012%20c%20Lars%20Myhren%20Holandhgde.ashx",
+		            "body_html": "(f. 1976) debuterte med ungdomsromanen Viss du vil i 1998.  For si fjerde bok, Handgranateple (2006), blei Røssland tildelt både Sunnmørsprisen og UPrisen, og boka kom i 2008 på IBBY Honour List. I 2007 mottok Røssland Sigmund Skard-stipendet og Guro Sandsdalens litteraturpris, og i 2011 blei ho tildelt Falturiltuprisen.  Dei tre bøkene Englefjes (2008), Englejakt (2009) og Engleslakt (2010) utgjer til saman den populære trilogien om Engel Winge. Den rå journalistspira og bråkmakeren, som også er kjend som queen of fucking everything, har eiga nettside: http://www.engelwinge.no.  Kirsebærsnø (2012) er Røsslands første roman for vaksne.  Ingelin Røssland er utdanna journalist og har jobba i fleire aviser og i NRK for Newton. Ingelin Røssland har fått ei rekkje prisar for sine ungdomsbøker og blitt omsett til fleire språk.  Røssland bur i Stockholm.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -542,12 +475,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Tor Arve Røssland",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/r/~/media/Samlaget/Litteratur/Forfattarar/R/Tor%20Arve%20ROEssland%202012.ashx",
-		            "body_html": "(f. 1971) skriv bøker for barn og unge, og er kanskje mest kjent for grøssarserien for ungdom, Svarte-Mathilda. Svarte Mathilda (2010) vart nominert til Uprisen. Svarte-Mathilda II kom i 2012 og Svarte-Mathilda III i 2013.
- 
-		Røssland voks opp på Husnes i Kvinnherad, og er no busett på Halhjem i Os, Hordaland. Han er utdanna ved Universitetet i Trondheim, med faga filmvitskap hovudfag, litteraturvitskap mellomfag og mediepedagogikk.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/r/~/media/Samlaget/Litteratur/Forfattarar/R/Tor%20Arve%20ROEssland%202012.ashx",
+		            "body_html": "(f. 1971) skriv bøker for barn og unge, og er kanskje mest kjent for grøssarserien for ungdom, Svarte-Mathilda. Svarte Mathilda (2010) vart nominert til Uprisen. Svarte-Mathilda II kom i 2012 og Svarte-Mathilda III i 2013.   Røssland voks opp på Husnes i Kvinnherad, og er no busett på Halhjem i Os, Hordaland. Han er utdanna ved Universitetet i Trondheim, med faga filmvitskap hovudfag, litteraturvitskap mellomfag og mediepedagogikk. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -559,12 +489,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Karl Seglem",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Karl-Seglem.ashx",
-		            "body_html": "(f. 1961) er forfattar, musikar og komponist frå Årdalstangen. Han debuterte litterært med diktsamlinga Stilla er ein åker i 2006.
-		Seglems debutbok er ei samling sterke og musikalske dikt. Med stor autoritet skriv han seg inn i ein norsk poesitradisjon med bilete henta frå fjord, fjell og natur. Ein kjenner kan hende igjen motiv frå andre vestlandsforfattarar, men først og fremst er dette Karl Seglem sine poetiske klangar, skapte i eit eige lydleg og avskrella språk.
-		Seglem er anerkjend musikar (tenorsaksofon/bukkehorn) og komponist, og har gitt ut ei rekkje plater. Han arbeider òg som produsent og platedirektør i NORCD.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Karl-Seglem.ashx",
+		            "body_html": "(f. 1961) er forfattar, musikar og komponist frå Årdalstangen. Han debuterte litterært med diktsamlinga Stilla er ein åker i 2006. Seglems debutbok er ei samling sterke og musikalske dikt. Med stor autoritet skriv han seg inn i ein norsk poesitradisjon med bilete henta frå fjord, fjell og natur. Ein kjenner kan hende igjen motiv frå andre vestlandsforfattarar, men først og fremst er dette Karl Seglem sine poetiske klangar, skapte i eit eige lydleg og avskrella språk. Seglem er anerkjend musikar (tenorsaksofon/bukkehorn) og komponist, og har gitt ut ei rekkje plater. Han arbeider òg som produsent og platedirektør i NORCD. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -576,10 +503,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Erlend Flornes Skaret",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Erlend-Flornes-Skaret.ashx",
-		            "body_html": "(f. 1976) kjem frå Bømlo og er utdanna sivilingeniør. Han debuterte i 2011 med romanen Wrocław.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Erlend-Flornes-Skaret.ashx",
+		            "body_html": "(f. 1976) kjem frå Bømlo og er utdanna sivilingeniør. Han debuterte i 2011 med romanen Wrocław. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -591,11 +517,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Hermann Starheimsæter",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Starheimster%20Hermann%20c%20Geir%20M%20Brungot.ashx",
-		            "body_html": "(f. 1950) debuterte i 1980 med diktsamlinga Lungeblæretre og har gjeve ut bøker i dei fleste sjangrar. Som romanforfattar har han heilt frå den prislønte Han gjorde det (1990) arbeidd med å finne gyldige språklege uttrykk for psykiske grensetilstandar.
-		print
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Starheimster%20Hermann%20c%20Geir%20M%20Brungot.ashx",
+		            "body_html": "(f. 1950) debuterte i 1980 med diktsamlinga Lungeblæretre og har gjeve ut bøker i dei fleste sjangrar. Som romanforfattar har han heilt frå den prislønte Han gjorde det (1990) arbeidd med å finne gyldige språklege uttrykk for psykiske grensetilstandar. print ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -607,8 +531,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Kari Smeland",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Kari%20Smeland.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Kari%20Smeland.ashx",
 		            "body_html": "(f. 1984) kjem frå Kviteseid i Telemark og bur i Oslo. Ho har ein bachelor i historie- og samfunnvitskap og jobbar som bibliotekar. Familien Kråkestup og nyset i nabohuset er den fyrste boka hennar.",
 		              "rules": [
 		                {
@@ -621,10 +545,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Rakel Solstad",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Rakel-Solstad.ashx",
-		            "body_html": "(f. 1945) er fødd i Finnmark og bur i Trondheim. Ho debuterte med Men kva veit vi om barna (2013). Ho har arbeidd som lærar og har i mange år vore pedagogisk-psykologisk rådgivar. Falle er Rakel Solstads andre bok.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Rakel-Solstad.ashx",
+		            "body_html": "(f. 1945) er fødd i Finnmark og bur i Trondheim. Ho debuterte med Men kva veit vi om barna (2013). Ho har arbeidd som lærar og har i mange år vore pedagogisk-psykologisk rådgivar. Falle er Rakel Solstads andre bok. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -636,14 +559,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Gaute M. Sortland",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Gaute-M-Sortland.ashx",
-		            "body_html": "(f. 1980) kjem frå Haugesund. Han debuterte som forfattar med romanen Johan i 2009, og er kjend som songar og musikar i Bergen Mandolinband.
-		Sortland mottok mange gode meldingar for debutboka, og blei mellom anna kalla ein særdeles løfterik debutant. Johan er ei forteljing om det å miste og å leve vidare. Historia er truverdig fortald i eit stillfarande språk.
-		I 2011 kom kortprosasamlinga Du er her igjen og alt er forandra.
-		Gaute M. Sortland er låtskrivar og vokalist i country- og bluegrassbandet Bergen Mandolinband. Bandet spelar amerikansk folkemusikk i nynorsk språkdrakt og gav i 2008 ut si første plate, Lang veg til Tysvær. Plate nummer to, Til skogen, kom i 2010.
-		Sortland har mastergrad i nordisk litteraturvitskap og bur i Oslo.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Gaute-M-Sortland.ashx",
+		            "body_html": "(f. 1980) kjem frå Haugesund. Han debuterte som forfattar med romanen Johan i 2009, og er kjend som songar og musikar i Bergen Mandolinband. Sortland mottok mange gode meldingar for debutboka, og blei mellom anna kalla ein særdeles løfterik debutant. Johan er ei forteljing om det å miste og å leve vidare. Historia er truverdig fortald i eit stillfarande språk. I 2011 kom kortprosasamlinga Du er her igjen og alt er forandra. Gaute M. Sortland er låtskrivar og vokalist i country- og bluegrassbandet Bergen Mandolinband. Bandet spelar amerikansk folkemusikk i nynorsk språkdrakt og gav i 2008 ut si første plate, Lang veg til Tysvær. Plate nummer to, Til skogen, kom i 2010. Sortland har mastergrad i nordisk litteraturvitskap og bur i Oslo. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -655,8 +573,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Kenneth Steven",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Kenneth-Steven.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Kenneth-Steven.ashx",
 		            "body_html": "Kenneth Steven (f. 1968) er frå Dunkeld i Perthsire, Skottland. Har er poet, barnebokforfattar og gjendiktar. Han har omsett bøker frå norsk til engelsk.",
 		              "rules": [
 		                {
@@ -669,11 +587,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Linn T. Sunne",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Sunne%20Linn%20T%20c%20Tove%20K%20Breistein%20BRUK%20DETTE.ashx",
-		            "body_html": "(f. 1971) debuterte som barnebokforfattar i 2000 med boka Stjernestøv, og har sidan skrive fleire bøker for barn og unge. Ho har vunne Skolebibliotekarforeningens litteraturpris og Brageprisen to gonger.
-		Sunne er oppvaksen på Kongsberg og i Valldal på Sunnmøre. Ho er utdanna allmennlærar og har arbeidd i barne- og ungdomsskolen. Ho bur no på Dokka, og arbeider med litteraturformidling for barn og ungdom på bokbussen i Oppland.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Sunne%20Linn%20T%20c%20Tove%20K%20Breistein%20BRUK%20DETTE.ashx",
+		            "body_html": "(f. 1971) debuterte som barnebokforfattar i 2000 med boka Stjernestøv, og har sidan skrive fleire bøker for barn og unge. Ho har vunne Skolebibliotekarforeningens litteraturpris og Brageprisen to gonger. Sunne er oppvaksen på Kongsberg og i Valldal på Sunnmøre. Ho er utdanna allmennlærar og har arbeidd i barne- og ungdomsskolen. Ho bur no på Dokka, og arbeider med litteraturformidling for barn og ungdom på bokbussen i Oppland. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -685,11 +601,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Jan Inge Sørbø",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Jan-Inge-SOErbOE.ashx",
-		            "body_html": "(f. 1954) er litteraturvitar, forfattar og journalist frå Bru i Ryfylke.
-		Han er professor ved Institutt for sosialfag, Høgskulen i Volda. 
-		Han debuterte som skjønnlitterær forfattar med diktsamlinga Lågt skydekke i 1986 og har seinare skrive ei rekkje bøker i fleire sjangrar. Han har mellom anna skrive kritikarroste biografiar om Ronald Fangen, Alfred Hauge og Hans Skjervheim og romanar baserte på liva til Alexander Kielland, Ludvig van Beethoven og Fartein Valen. I 2009 ga han ut Ørneflukt og ormegard – ein kritikarrost biografi om Olav Aukrust, og i 2010 kom Lyset frå fars ansikt. Refleksjonar ved lisvets slutt.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Jan-Inge-SOErbOE.ashx",
+		            "body_html": "(f. 1954) er litteraturvitar, forfattar og journalist frå Bru i Ryfylke. Han er professor ved Institutt for sosialfag, Høgskulen i Volda.  Han debuterte som skjønnlitterær forfattar med diktsamlinga Lågt skydekke i 1986 og har seinare skrive ei rekkje bøker i fleire sjangrar. Han har mellom anna skrive kritikarroste biografiar om Ronald Fangen, Alfred Hauge og Hans Skjervheim og romanar baserte på liva til Alexander Kielland, Ludvig van Beethoven og Fartein Valen. I 2009 ga han ut Ørneflukt og ormegard – ein kritikarrost biografi om Olav Aukrust, og i 2010 kom Lyset frå fars ansikt. Refleksjonar ved lisvets slutt.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -701,10 +615,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Kristin Sørsdal",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Kristin-SOErsdal.ashx",
-		            "body_html": "(f. 1966) er frå Tromøya utanfor Arendal og bur i Bergen. Sørsdal er forfattar og omsettar. Ho debuterte med Makabre bikkjer. Guds hund er den andre boka hennar. Sørsdal omset Napoli-kvartetten av Elena Ferrante til norsk.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Kristin-SOErsdal.ashx",
+		            "body_html": "(f. 1966) er frå Tromøya utanfor Arendal og bur i Bergen. Sørsdal er forfattar og omsettar. Ho debuterte med Makabre bikkjer. Guds hund er den andre boka hennar. Sørsdal omset Napoli-kvartetten av Elena Ferrante til norsk. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -716,11 +629,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Rune Timberlid",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/t/~/media/Samlaget/Litteratur/Forfattarar/T/Timberlid%20Rune%20portrett%202011.ashx",
-		            "body_html": "(f. 1950) er journalist og kriminalforfattar. Han har, sidan debuten i 1991, skrive fleire bøker om politibetjent Rolf Randen frå Høyanger, m.a. Deadline (2006) og Operasjon Siskin (2008).
-		Timberlid er fødd i Sogndal og utdanna journalist frå Norsk Journalisthøgskole. Han har mellom anna arbeidd i Aftenposten, Dagbladet, NTB og Sogn Avis og Firda, der han var redaktør i 1990–1995.
-		Timberlid er busett i Førde og er seniorrådgivar i kommunikasjonsavdelinga i Lotteri- og stiftelsestilsynet.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/t/~/media/Samlaget/Litteratur/Forfattarar/T/Timberlid%20Rune%20portrett%202011.ashx",
+		            "body_html": "(f. 1950) er journalist og kriminalforfattar. Han har, sidan debuten i 1991, skrive fleire bøker om politibetjent Rolf Randen frå Høyanger, m.a. Deadline (2006) og Operasjon Siskin (2008). Timberlid er fødd i Sogndal og utdanna journalist frå Norsk Journalisthøgskole. Han har mellom anna arbeidd i Aftenposten, Dagbladet, NTB og Sogn Avis og Firda, der han var redaktør i 1990–1995. Timberlid er busett i Førde og er seniorrådgivar i kommunikasjonsavdelinga i Lotteri- og stiftelsestilsynet.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -732,8 +643,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Terje Tørrisplass",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/t/~/media/Samlaget/Litteratur/Forfattarar/T/Trrisplass%20Terje%202010%20c%20Tove%20K%20Breistein%20svart%20kvitt.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/t/~/media/Samlaget/Litteratur/Forfattarar/T/Trrisplass%20Terje%202010%20c%20Tove%20K%20Breistein%20svart%20kvitt.ashx",
 		            "body_html": "(f. 1957) bur på Bromma i Hallingdal. Han debuterte med diktsamlinga Eg bygger ikkje byar i 2010.",
 		              "rules": [
 		                {
@@ -746,10 +657,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Mariell Øyre",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/oe/~/media/Forfattarfoto/profil_.ashx?mw=125",
-		            "body_html": "(f. 1990) er fotograf, bloggar og redaktør og held vanlegvis til på verdas største nynorskblogg, hjartesmil.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/oe/~/media/Forfattarfoto/profil_.ashx?mw=125",
+		            "body_html": "(f. 1990) er fotograf, bloggar og redaktør og held vanlegvis til på verdas største nynorskblogg, hjartesmil. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -761,10 +671,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Arne Henning Årskaug",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/aa/~/media/Samlaget/Litteratur/Forfattarar/AA/Arne-Henning-AArskaug.ashx",
-		            "body_html": "(f. 1985) kjem frå Holsen og bur i Oslo. Han har gått på Forfattarstudiet i Bø, Skrivekunstakademiet i Hordaland og studerer bibliotek- og informasjonsvitskap. Dette er den første boka hans.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/aa/~/media/Samlaget/Litteratur/Forfattarar/AA/Arne-Henning-AArskaug.ashx",
+		            "body_html": "(f. 1985) kjem frå Holsen og bur i Oslo. Han har gått på Forfattarstudiet i Bø, Skrivekunstakademiet i Hordaland og studerer bibliotek- og informasjonsvitskap. Dette er den første boka hans. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -776,13 +685,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Rune Hjemås",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/Rune-F-Hjemaas.ashx",
-		            "body_html": "(f. 1982) er frå Heimdal utanfor Trondheim. Han debuterte i 2008 med prosasamlinga Er er ikkje redd, eg er ikkje redd, og gav året etter ut novellesamlinga Indianarar.Debutboka fekk gode meldingar, og oppfølgjaren Indianarar, som kom i 2009, blei kåra til ei av årets beste bøker av Klassekampen og hamna som nr. 4 på Adresseavisens liste over beste skjønnlitterære bøker i 2009.
-
-		Hjemås har bakgrunn frå Skrivekunstakademiet i Hordaland, og har teke mastergrad i rettsvitskap ved Universitetet i Bergen og Oslo. Han har sidan 2001 delteke i fleire antologiar, og skriv jamleg for ulike tidsskrift, aviser og bloggar.
-
-		Hjemås bur i Oslo.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/h/~/media/Samlaget/Litteratur/Forfattarar/H/Rune-F-Hjemaas.ashx",
+		            "body_html": "(f. 1982) er frå Heimdal utanfor Trondheim. Han debuterte i 2008 med prosasamlinga Er er ikkje redd, eg er ikkje redd, og gav året etter ut novellesamlinga Indianarar.Debutboka fekk gode meldingar, og oppfølgjaren Indianarar, som kom i 2009, blei kåra til ei av årets beste bøker av Klassekampen og hamna som nr. 4 på Adresseavisens liste over beste skjønnlitterære bøker i 2009.  Hjemås har bakgrunn frå Skrivekunstakademiet i Hordaland, og har teke mastergrad i rettsvitskap ved Universitetet i Bergen og Oslo. Han har sidan 2001 delteke i fleire antologiar, og skriv jamleg for ulike tidsskrift, aviser og bloggar.  Hjemås bur i Oslo.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -794,10 +699,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Katrine Gregersen",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/g/~/media/Samlaget/Litteratur/Forfattarar/G/Kathrine-Gregersen.ashx",
-		            "body_html": "(f. 1975) er utdanna faglærar i kunst og handverk. Ho starta opp Nøstebarn-butikken i Oslo, og arbeidde i mange år med produktutvikling og marknadsføring for Nøstebarn. Kathrine Gregersen held kurs og inspirasjonsforedrag for ungdom og vaksne. Gregersen har tidlegare gitt ut boka Strikk til nøstebarn (2007) og Brukt på nytt (2008).
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/g/~/media/Samlaget/Litteratur/Forfattarar/G/Kathrine-Gregersen.ashx",
+		            "body_html": "(f. 1975) er utdanna faglærar i kunst og handverk. Ho starta opp Nøstebarn-butikken i Oslo, og arbeidde i mange år med produktutvikling og marknadsføring for Nøstebarn. Kathrine Gregersen held kurs og inspirasjonsforedrag for ungdom og vaksne. Gregersen har tidlegare gitt ut boka Strikk til nøstebarn (2007) og Brukt på nytt (2008). ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -809,11 +713,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Ottar Grepstad",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/g/~/media/Samlaget/Litteratur/Forfattarar/G/Grepstad%20Ottar%202012%20c%20Lars%20O%20Flydal.ashx",
-		            "body_html": "(f. 1953) har vore direktør i Nynorsk kultursentrum sidan 1999, hovudredaktør for nettleksikonet Allkunne frå 2007, kulturkommentator i Dagens Næringsliv frå 2008 og styreleiar i Språkrådet frå 2010. Grepstad var redaktør i Syn og Segn 1984–1988 og forlagsredaktør, redaksjonssjef og assisterande forlagssjef i Det Norske Samlaget 1980–1994. Han har skrive eller redigert meir enn tjue bøker.
-
-		Grepstad har lenge vore ein av landets mest markante nynorskbrukarar. Han blei tildelt Norsk språkpris 1999 for boka Det litterære skattkammer.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/g/~/media/Samlaget/Litteratur/Forfattarar/G/Grepstad%20Ottar%202012%20c%20Lars%20O%20Flydal.ashx",
+		            "body_html": "(f. 1953) har vore direktør i Nynorsk kultursentrum sidan 1999, hovudredaktør for nettleksikonet Allkunne frå 2007, kulturkommentator i Dagens Næringsliv frå 2008 og styreleiar i Språkrådet frå 2010. Grepstad var redaktør i Syn og Segn 1984–1988 og forlagsredaktør, redaksjonssjef og assisterande forlagssjef i Det Norske Samlaget 1980–1994. Han har skrive eller redigert meir enn tjue bøker.  Grepstad har lenge vore ein av landets mest markante nynorskbrukarar. Han blei tildelt Norsk språkpris 1999 for boka Det litterære skattkammer.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -825,8 +727,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Gunnar Grytås",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/g/~/media/Samlaget/Litteratur/Forfattarar/G/Gunnar-Grytaas.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/g/~/media/Samlaget/Litteratur/Forfattarar/G/Gunnar-Grytaas.ashx",
 		            "body_html": "(f. 1949) er forskar ved Norges fiskerihøgskole, Universitetet i Tromsø. Han har arbeidd som forfattar og journalist, mellom anna i Nordlys, Dagens Næringsliv og Fiskeribladet. Han har skrive ei rekkje bøker om fiskeripolitikk og kystkultur, blant anna historia til Noregs Råfisklag frå 2013. Grytås er også ein av forfattarane av fembandsverket Norges fiskeri- og kysthistorie.",
 		              "rules": [
 		                {
@@ -839,8 +741,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Ellen Kristvik",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Ellen-Kristvik.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Ellen-Kristvik.ashx",
 		            "body_html": "(f. 1955) er forskar på Avdeling for helsetenesteforskning (HØKH) på Akershus Universitetssjukehus. Ho er antropolog og har òg bakgrunn som sjukepleiar. Det siste forskingsprosjektet hennar handla om helsetenesta sitt møte med alvorleg sjuke kreftpasientar, noko ho tidlegare også har jobba med som sjukepleiar.  ",
 		              "rules": [
 		                {
@@ -853,11 +755,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Herborg Kråkevik",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Herborg-KrAAkevik.ashx",
-		            "body_html": "(f. 1973) er ein av våre mest folkekjære artistar, og ein engasjert kulturformidlar. Ho har alltid vore oppteken av å fornye og aktualisere gamle tradisjonar, om det no er den franske kabaretforma; Herborgs verden, Eg og Edith, Kjære landsmenn, eller songane våre; Kråkeviks songbok. 
-
-		No er det dei litterære julehefta ho vil vekkje til live; Juleroser kom ut første gong i København 1882, og spreidde seg til heile Norden. Nye Juleroser kjem ut i år, og skal bli ein juletradisjon frå Samlaget.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/k/~/media/Samlaget/Litteratur/Forfattarar/K/Herborg-KrAAkevik.ashx",
+		            "body_html": "(f. 1973) er ein av våre mest folkekjære artistar, og ein engasjert kulturformidlar. Ho har alltid vore oppteken av å fornye og aktualisere gamle tradisjonar, om det no er den franske kabaretforma; Herborgs verden, Eg og Edith, Kjære landsmenn, eller songane våre; Kråkeviks songbok.   No er det dei litterære julehefta ho vil vekkje til live; Juleroser kom ut første gong i København 1882, og spreidde seg til heile Norden. Nye Juleroser kjem ut i år, og skal bli ein juletradisjon frå Samlaget.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -869,11 +769,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Gunnar Myklebust",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Gunnar-Myklebust.ashx",
-		            "body_html": "f. 1950) er journalist og forfattar. Han har vore utanriksmedarbeidar i NRK, og var i perioden 1993–­1997 NRKs korrespondent i USA.
- 
-		Han har tidlegare skrive boka Tungtvannssabotøren om Joachim Rønneberg. ",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/m/~/media/Samlaget/Litteratur/Forfattarar/M/Gunnar-Myklebust.ashx",
+		            "body_html": "f. 1950) er journalist og forfattar. Han har vore utanriksmedarbeidar i NRK, og var i perioden 1993–­1997 NRKs korrespondent i USA.   Han har tidlegare skrive boka Tungtvannssabotøren om Joachim Rønneberg. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -885,8 +783,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Dag H. Nestegard",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Dag-H-Nestegard.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Dag-H-Nestegard.ashx",
 		            "body_html": "(f. 1968) er journalist og redaktør i Bok og Samfunn.",
 		              "rules": [
 		                {
@@ -899,8 +797,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Torolf Nordbø",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Torolf%20Nordboe.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/n/~/media/Samlaget/Litteratur/Forfattarar/N/Torolf%20Nordboe.ashx",
 		            "body_html": "(f. 1956) er humorist, musikar, tekstforfattar og filosof.",
 		              "rules": [
 		                {
@@ -913,10 +811,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Katrine Sele",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Katrine-Sele.ashx",
-		            "body_html": "(f. 1972) er oppvaksen i Skottland, Zimbabwe, Bærum og Singapore. Ho er busett i Jølster i Sunnfjord. Tidlegare har ho blant anna gjeve ut ei prislønt bok om kunstnaren Oddvar Torsheim, og ho er tildelt Kulturdepartementets nynorskpris for journalistar.
-		",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Katrine-Sele.ashx",
+		            "body_html": "(f. 1972) er oppvaksen i Skottland, Zimbabwe, Bærum og Singapore. Ho er busett i Jølster i Sunnfjord. Tidlegare har ho blant anna gjeve ut ei prislønt bok om kunstnaren Oddvar Torsheim, og ho er tildelt Kulturdepartementets nynorskpris for journalistar. ",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -928,8 +825,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Ida Skivenes",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Ida-Skivenes.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Ida-Skivenes.ashx",
 		            "body_html": "(f. 1984) deler matglede og kreative frukostar med hundre tusen følgjarar frå heile verda på Instagram under namnet idafrosk. Dette er første boka hennar.",
 		              "rules": [
 		                {
@@ -942,10 +839,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Gudmund Skjeldal",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Gudmund-Skjeldal.ashx",
-		            "body_html": "Gudmund Skjeldal (f. 1970) var landslagsløpar i langrenn fram til 1994. Det året kom han med boka På villspor. Takk og farvel til toppidretten.
-		I 2005 kom Den siste langrennaren. Ei historie om Kristen Skjeldal og snø. Skjeldal er idéhistorikar, lektor i den vidaregåenda skolen og starta i 2007 klimakampanjen Hvit vinter.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Gudmund-Skjeldal.ashx",
+		            "body_html": "Gudmund Skjeldal (f. 1970) var landslagsløpar i langrenn fram til 1994. Det året kom han med boka På villspor. Takk og farvel til toppidretten. I 2005 kom Den siste langrennaren. Ei historie om Kristen Skjeldal og snø. Skjeldal er idéhistorikar, lektor i den vidaregåenda skolen og starta i 2007 klimakampanjen Hvit vinter.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -957,10 +853,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Arnhild Skre",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Arnhild-Skre.ashx",
-		            "body_html": "Arnhild Skre har solid og mangslungen røynsle som kulturjournalist i fleire år i NRK, Dag og Tid og Aftenposten.
-		Ho er historikar av utdanning, har skrive fleire bøker, mellom anna den kritikarroste biografien om Ragnhild Jølsen.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Arnhild-Skre.ashx",
+		            "body_html": "Arnhild Skre har solid og mangslungen røynsle som kulturjournalist i fleire år i NRK, Dag og Tid og Aftenposten. Ho er historikar av utdanning, har skrive fleire bøker, mellom anna den kritikarroste biografien om Ragnhild Jølsen.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -972,8 +867,8 @@
 		    },
 		"smart_collection": {
 		            "title": "Morten Søberg",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Morten-SOEberg.ashx",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Morten-SOEberg.ashx",
 		            "body_html": "(f. 1969) kjem frå Trondheim og arbeider som direktør for samfunnskontakt i Sparebank1 Gruppen. Han var statssekretær i Finansdepartementet i tre år fram til regjeringsskiftet hausten 2013. Søberg er samfunnsøkonom med doktorgrad i eksperimentell økonomi frå Universitetet i Oslo og utdanning i filosofi og økonomi frå London School of Economics. Han har tidlegare gitt ut bøkene Senatet som aldri vart. Essay frå Stortinget (2009) og Sverdrups ekko. Parlamentariske undersøkingar (2010).",
 		              "rules": [
 		                {
@@ -986,10 +881,9 @@
 		    },
 		"smart_collection": {
 		            "title": "Aud Søyland",
-		            "image": {
-		      "src": " http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Aud-SOEyland2.ashx",
-		            "body_html": "Aud Søyland (f. 1954) arbeider som språkkonsulent (språkvaskar og omsetjar). Ho er utdanna cand.philol. med nordisk hovudfag, engelsk mellomfag og musikk grunnfag.
-		Søyland er redaktør for nynorsk ordliste og eller frilans språkrettar, omsetjar og kurshaldar. Ho var sekretær for nemnda som utarbeidde framlegg til ny nynorsk rettskriving.",
+		                       "image": {
+		      "src": "http://samlaget.no/nn-no/forfattarar/s/~/media/Samlaget/Litteratur/Forfattarar/S/Aud-SOEyland2.ashx",
+		            "body_html": "Aud Søyland (f. 1954) arbeider som språkkonsulent (språkvaskar og omsetjar). Ho er utdanna cand.philol. med nordisk hovudfag, engelsk mellomfag og musikk grunnfag. Søyland er redaktør for nynorsk ordliste og eller frilans språkrettar, omsetjar og kurshaldar. Ho var sekretær for nemnda som utarbeidde framlegg til ny nynorsk rettskriving.",
 		              "rules": [
 		                {
 		                    "column": "vendor",
@@ -999,4 +893,5 @@
 		            ]
 		        }
 		    }
+				    }
 ]
